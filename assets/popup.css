@@ -1,6 +1,6 @@
 @font-face {
   font-family: "KNIGHT";
-  src: url("/fonts/KNIGHT.woff2") format("woff2");
+  src: url("/fonts/KNIGHT.ttf") format("truetype");
   font-display: swap;
 }
 :root { --bg: #1F1F1F; --text: #EDEDED; --muted: #B5B5B5; --turq: #62FFC5; }
